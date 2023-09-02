@@ -27,6 +27,7 @@ Data was split into train and test sets with the 25/75 ratio.
 5.Model selection
 
 We tried 2 libraries for text preprocessing - nltk and spaCy. Logistic Regression, RandomForest and LightGBM models were used. We used pipeline for vectorizing texts and GridSearch for fittng hyperparameters.
+
 And we used the toxic_BERT model.
 
 6. Results
