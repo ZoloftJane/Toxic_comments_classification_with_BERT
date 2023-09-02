@@ -30,7 +30,7 @@ We tried 2 libraries for text preprocessing - nltk and spaCy. Logistic Regressio
 
 And we used the toxic_BERT model.
 
-6. Results
+6.Results
 
 Based on our research, the Logistic Regression model showed the best test F1 score - over 75%. 
 
